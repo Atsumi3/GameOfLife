@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_1d39e3bfcb357d1def2288cab4bc3452dd9b1f20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_60ae1fbc3dc09ac19fe2f1e7dd4cc9f333bf5d1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c0a9ba1219a501c07d95f7b34365c6ddc7782227/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_9825f0185aeff3c8ce6f5e851526c4b5a59b877b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_919208cafd6a8ef6f50bb572ac62e35f57372e89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_b572d951cac60b8f7f9cb2571498de5194ee1f06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_b8257c596e487af19c3e02695122224e1818a36d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_106be37432f03097e5b276b694ec7452f6703f71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_797f0094fe484fbc221f7a4766333afdfb76562c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_7fa9584f6939a075c8c05f91d3cbdcf7f60a3786/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_bf479ae72663835b1b455f2eb96e468bdfb983f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66ce84e77ae9135c9e09181e626909e70f54d400">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e5ff9590a9477d518a3288a8ca850fab5051517c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca5708479faa984151d81593b6bab3d2fe11c7d2">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1a401285aced8dd44c352acd74b8cc65b739d4be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_967287912039d780ee283be7d12cc78ef645b4aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_4bd0596cf3e7cc02a440098e3a0a5d53f30a2103/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_92b44b6a406adefabd283e3e2eb28041bea6df00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/atsumi/git/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/atsumi/git/GameOfLife/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_9cb7a64b30062203d105ce29692b454c2a5e3a27/classes.dex" />
+    </item>
+
+</items>
